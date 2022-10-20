@@ -1,5 +1,5 @@
 
-# A Multi-Mode Convolutional Neural Network to reconstruct Chlorophyll-a time series in the global ocean from physical drivers
+# A Multi-Mode Convolutional Neural Network (CNN) to reconstruct Chlorophyll-a time series in the global ocean from physical drivers
 
 This repository is the official implementation of [A Multi-Mode Convolutional Neural Network to reconstruct
 Chlorophyll-a time series in the global ocean from physical drivers](). 
