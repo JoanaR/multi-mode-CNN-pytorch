@@ -13,7 +13,7 @@ This repository contains the following PyTorch code:
 
 Our model achieves the following performance on :
 
-### SEASIDE-IGLOO - SatellitE phytoplAnkton phySIcal Drivers ocEan
+### INDIGO - SatellitE phytoplAnkton phySIcal Drivers ocEan
 
 
 | Model name         | SQ  | RQ | PQ|
@@ -28,5 +28,5 @@ See the paper for more details.
 
 ## Requirements
 
-### SEASIDE-IGLOO Dataset download
+### INDIGO Dataset download
 The Dataset is freely available for download [here]. 
