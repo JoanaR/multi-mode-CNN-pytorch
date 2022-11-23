@@ -7,7 +7,7 @@ Chlorophyll-a time series in the global ocean from physical drivers]().
 ## Contents
 This repository contains the following PyTorch code:
 - [Implementation]() of **MM-CNN** Chlorophyll-a time series regression from oceanic and atmospheric predictors 
-![](modes_inputs.png){: width="50%"}
+![alt](modes_inputs.png){: width="50%"}
 
 ## Results
 
