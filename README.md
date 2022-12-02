@@ -2,7 +2,7 @@
 # A Multi-Mode Convolutional Neural Network (CNN<sub>MM</sub>) to reconstruct Chlorophyll-a time series in the global ocean from physical drivers
 
 This repository is the official implementation of the model presented in the paper [A Multi-Mode Convolutional Neural Network to reconstruct
-Chlorophyll-a time series in the global ocean from physical drivers](Submitted to Frontiers in Marine Science, in revision). 
+Chlorophyll-a time series in the global ocean from physical drivers](Submitted to Frontiers in Marine Science). 
 
 ## Contents
 This repository contains the following PyTorch code:
