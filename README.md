@@ -28,9 +28,10 @@ See the paper for more details.
 
 ### Python Libraries :
 
-* PyTorch == 
-* Numpy
-* ...
+* torch==1.4.0
+* torchvision==0.5.0
+* numpy==1.18.1
+* carbontracker==1.1.5
     
  To install the requirements libraries :
  
@@ -63,4 +64,6 @@ This dataset was built from the following source of data :
 
 
 ### Reference
+
+Roussillon Joana, Fablet Ronan, Gorgues Thomas, Drumetz Lucas, Littaye Jean, Martinez Elodie (2022). satellIte phytoplaNkton Drivers In the Global Ocean over 1998-2015 (INDIGO Benchmark dataset). SEANOE. https://doi.org/10.17882/91910
 
