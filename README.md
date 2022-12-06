@@ -8,6 +8,9 @@ Chlorophyll-a time series in the global ocean from physical drivers](Submitted t
 This repository contains the following PyTorch code:
 - [Implementation]() of **CNN<sub>MM8</sub>** Chlorophyll-a (Chl) time series regression from oceanic and atmospheric predictors 
 
+**!! Not yet uploaded - coming soon !!**
+
+
 <p align="center">
   <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Fig_1_method.jpg" width="650" height="300" >
 </p>
