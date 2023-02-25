@@ -71,6 +71,13 @@ This dataset was built from the following source of data :
   <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Variance.png" width="470" height="450" >
 </p>
 
+
+## Relative importance of predictors
+
+<p align="center">
+  <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Fig_9.png" width="470" height="450" >
+</p>
+
 ### References
 
 Roussillon Joana, Fablet Ronan, Gorgues Thomas, Drumetz Lucas, Littaye Jean, Martinez Elodie (2023). A Multi-Mode Convolutional Neural Network to reconstruct Chlorophyll-a time series in the global ocean from physical drivers. Frontiers in marine science.  doi: 10.3389/fmars.2023.1077623
