@@ -12,7 +12,7 @@ This repository contains the following PyTorch code:
 
 
 <p align="center">
-  <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Fig1.tiff" width="650" height="300" >
+  <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Fig1.jpg" width="650" height="300" >
 </p>
 
 ## Results
@@ -68,7 +68,7 @@ This dataset was built from the following source of data :
 ## Variance explained by each mode
 
 <p align="center">
-  <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Variance.jpg" width="650" height="300" >
+  <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Variance.png" width="470" height="450" >
 </p>
 
 ### References
