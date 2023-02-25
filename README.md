@@ -75,7 +75,7 @@ This dataset was built from the following source of data :
 ## Relative importance of predictors
 
 <p align="center">
-  <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Fig_9.png" width="470" height="450" >
+  <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Fig_9.jpg" width="850" height="450" >
 </p>
 
 ### References
