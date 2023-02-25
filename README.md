@@ -1,5 +1,5 @@
 
-# A Multi-Mode Convolutional Neural Network (CNN<sub>MM</sub>) to reconstruct Chlorophyll-a time series in the global ocean from physical drivers
+# A Multi-Mode Convolutional Neural Network (CNN<sub>MM</sub>) to reconstruct satellite-derived Chlorophyll-a time series in the global ocean from physical drivers
 
 This repository is the official implementation of the model presented in the paper [A Multi-Mode Convolutional Neural Network to reconstruct
 Chlorophyll-a time series in the global ocean from physical drivers](Accepted in Frontiers in Marine Science). 
@@ -80,7 +80,7 @@ This dataset was built from the following source of data :
 
 ### References
 
-Roussillon Joana, Fablet Ronan, Gorgues Thomas, Drumetz Lucas, Littaye Jean, Martinez Elodie (2023). A Multi-Mode Convolutional Neural Network to reconstruct Chlorophyll-a time series in the global ocean from physical drivers. Frontiers in marine science.  doi: 10.3389/fmars.2023.1077623
+Roussillon Joana, Fablet Ronan, Gorgues Thomas, Drumetz Lucas, Littaye Jean, Martinez Elodie (2023). A Multi-Mode Convolutional Neural Network to reconstruct satellite-derived Chlorophyll-a time series in the global ocean from physical drivers. Frontiers in marine science.  doi: 10.3389/fmars.2023.1077623
 
 Roussillon Joana, Fablet Ronan, Gorgues Thomas, Drumetz Lucas, Littaye Jean, Martinez Elodie (2022). satellIte phytoplaNkton Drivers In the Global Ocean over 1998-2015 (INDIGO Benchmark dataset). SEANOE. https://doi.org/10.17882/91910
 
