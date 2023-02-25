@@ -2,7 +2,7 @@
 # A Multi-Mode Convolutional Neural Network (CNN<sub>MM</sub>) to reconstruct Chlorophyll-a time series in the global ocean from physical drivers
 
 This repository is the official implementation of the model presented in the paper [A Multi-Mode Convolutional Neural Network to reconstruct
-Chlorophyll-a time series in the global ocean from physical drivers](Submitted to Frontiers in Marine Science). 
+Chlorophyll-a time series in the global ocean from physical drivers](Accepted in Frontiers in Marine Science). 
 
 ## Contents
 This repository contains the following PyTorch code:
@@ -12,7 +12,7 @@ This repository contains the following PyTorch code:
 
 
 <p align="center">
-  <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Fig_1_method.jpg" width="650" height="300" >
+  <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Fig1.tiff" width="650" height="300" >
 </p>
 
 ## Results
@@ -62,11 +62,20 @@ This dataset was built from the following source of data :
 ## Training model
 
 
-## Infering Chl with a pre-trained model
+## Inference
 
 
+## Variance explained by each mode
 
-### Reference
+<p align="center">
+  <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Variance.jpg" width="650" height="300" >
+</p>
+
+### References
+
+Roussillon Joana, Fablet Ronan, Gorgues Thomas, Drumetz Lucas, Littaye Jean, Martinez Elodie (2023). A Multi-Mode Convolutional Neural Network to reconstruct Chlorophyll-a time series in the global ocean from physical drivers. Frontiers in marine science.  doi: 10.3389/fmars.2023.1077623
 
 Roussillon Joana, Fablet Ronan, Gorgues Thomas, Drumetz Lucas, Littaye Jean, Martinez Elodie (2022). satellIte phytoplaNkton Drivers In the Global Ocean over 1998-2015 (INDIGO Benchmark dataset). SEANOE. https://doi.org/10.17882/91910
+
+
 
