@@ -50,6 +50,22 @@ This dataset was built from the following source of data :
 | Bathymetry      |  **bathy** | [GEBCO](https://www.gebco.net/data_and_products/gridded_bathymetry_data/gebco_2020/)|15 arc seconds|
 
 
+## Animation
+
+Chl recontructed data over [2012-2015] :
+
+
+https://github.com/JoanaR/multi-mode-CNN-pytorch/assets/12017107/c0c16715-7a25-4a3a-a810-672ce3f92f2d
+
+
+
+Chl reference satellite data over [2012-2015] :
+
+https://github.com/JoanaR/multi-mode-CNN-pytorch/assets/12017107/44148340-d8dc-4b92-b075-e7ea0e3ec0cd
+
+
+
+
 ### References
 
 Roussillon Joana, Fablet Ronan, Gorgues Thomas, Drumetz Lucas, Littaye Jean, Martinez Elodie (2023). A Multi-Mode Convolutional Neural Network to reconstruct satellite-derived Chlorophyll-a time series in the global ocean from physical drivers. Frontiers in marine science.  doi: 10.3389/fmars.2023.1077623
