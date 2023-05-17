@@ -1,15 +1,12 @@
 
 # A Multi-Mode Convolutional Neural Network (CNN<sub>MM</sub>) to reconstruct satellite-derived Chlorophyll-a time series in the global ocean from physical drivers
 
-This repository is the official implementation of the model presented in the paper [A Multi-Mode Convolutional Neural Network to reconstruct
-Chlorophyll-a time series in the global ocean from physical drivers](Accepted in Frontiers in Marine Science). 
+This repository contains the code of the model presented in the paper [A Multi-Mode Convolutional Neural Network to reconstruct
+Chlorophyll-a time series in the global ocean from physical drivers](Frontiers in Marine Science, 2023). 
 
 ## Contents
 This repository contains the following PyTorch code:
-- [Implementation]() of **CNN<sub>MM8</sub>** Chlorophyll-a (Chl) time series regression from oceanic and atmospheric predictors 
-
-**!! Not yet uploaded - coming soon !!** - don't hesistate to contact us if you need the code quickly :)
-
+- Implementation of the multi-mode **CNN<sub>MM8</sub>** Chl time series regression from oceanic and atmospheric predictors :
 
 <p align="center">
   <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Fig1.jpg" width="650" height="300" >
@@ -44,7 +41,7 @@ conda install -r requirements.txt
     
  
 ### INDIGO dataset download :
-The benchmark formated dataset is freely available for download [here](https://www.seanoe.org/data/00807/91910/). 
+The benchmark formated dataset is available for download [here](https://www.seanoe.org/data/00807/91910/). You can also find the required files to run the code [in this repository] https://e.pcloud.link/publink/show?code=kZ5TyuZeuTIPNKWtsS02f60baCweJlIfwVy
 This dataset was built from the following source of data :
 
 | Proxy used as predictors         | Acronyme  | Products | Initial spatio-temporal resolutions|
@@ -57,26 +54,6 @@ This dataset was built from the following source of data :
 | Binary continental mask       |  **mask** |||
 | Bathymetry      |  **bathy** | [GEBCO](https://www.gebco.net/data_and_products/gridded_bathymetry_data/gebco_2020/)|15 arc seconds|
 
-
-
-## Training model
-
-
-## Inference
-
-
-## Variance explained by each mode
-
-<p align="center">
-  <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Variance.png" width="470" height="450" >
-</p>
-
-
-## Relative importance of predictors
-
-<p align="center">
-  <img src="https://github.com/JoanaR/multi-mode-CNN-pytorch/blob/main/Fig_9.jpg" width="850" height="450" >
-</p>
 
 ### References
 
